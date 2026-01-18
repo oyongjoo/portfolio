@@ -1,4 +1,4 @@
-# Yongjoo Oh - Portfolio
+# Yongjoo Lee - Portfolio
 
 IoT & Embedded Systems Engineer specializing in OpenWrt, HaLow (802.11ah), and MQTT protocols.
 
