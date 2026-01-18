@@ -4,7 +4,7 @@ IoT & Embedded Systems Engineer specializing in OpenWrt, HaLow (802.11ah), and M
 
 ## 🚀 Featured Projects
 
-### [NRC Communication Gateway](https://github.com/oyongjoo/nrc_comm_gw)
+### [NRC Communication Gateway](./projects/nrc_comm_gw.md)
 **MAC Layer MQTT Bridge for HaLow Networks**
 
 OpenWrt-based application that bridges MQTT messages over custom EtherType (0x88b6) protocol, managing 31 HaLow APs in production deployment.
@@ -17,7 +17,7 @@ OpenWrt-based application that bridges MQTT messages over custom EtherType (0x88
 - Production deployment: 31 APs in Philadelphia
 - Direct MAC layer communication for low latency
 
-🔒 *Private repository - Access available upon request*
+🔒 *Private repository - [View Details](./projects/nrc_comm_gw.md) | Access available upon request*
 
 ---
 
@@ -38,6 +38,12 @@ OpenWrt-based application that bridges MQTT messages over custom EtherType (0x88
 - OpenWrt firmware development and optimization
 - Large-scale IoT device management (31+ devices)
 - MQTT protocol implementation and automation
+
+---
+
+## 📁 Projects
+
+Browse all projects in the [projects](./projects/) folder.
 
 ---
 
